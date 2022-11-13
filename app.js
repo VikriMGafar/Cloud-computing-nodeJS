@@ -1,2 +1,2 @@
 // TODO : add aplication
-console.log("Hello World!\n");
+console.log("Hallo dunia!\n");
